@@ -6,3 +6,4 @@ while a != 'все, я сдаюсь':
         a = input()
     else:
         print('Вы проиграли')
+        break
